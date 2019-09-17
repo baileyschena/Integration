@@ -25,5 +25,5 @@ if(answernum == 3):
     print("Good job! The answer is correct!")
 else:
     print("Sorry, the answer is incorrect.")
-
+print("Thank you for playing!")
 
